@@ -1,13 +1,31 @@
 {
-  "bg": 78, 
+  "bg": 50, 
   "temp": "absolute", 
-  "snoozeBG": 43, 
+  "snoozeBG": 21, 
   "recieved": true, 
+  "predBGs": {
+    "IOB": [
+      50, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39, 
+      39
+    ]
+  }, 
   "rate": 0.0, 
-  "reason": "BG 78<87.5", 
-  "eventualBG": 43, 
-  "timestamp": "2016-08-26T15:34:52.876924", 
+  "reason": "COB: 0, Dev: -72, BGI: -0.6, ISF: 52, Target: 128; BG 50<89", 
+  "COB": 0, 
+  "eventualBG": 21, 
+  "timestamp": "2016-08-26T15:57:40.986301", 
   "duration": 30, 
-  "mealAssist": "Off: Carbs: 32 Boluses: 1.1 ISF: 52.1, Target: 125 Deviation: -58 BGI: -1.04", 
-  "tick": -2
+  "tick": -16, 
+  "IOB": -0.86
 }
