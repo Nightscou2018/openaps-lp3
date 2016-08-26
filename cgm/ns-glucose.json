@@ -22,6 +22,17 @@
     "glucose": 108
   },
   {
+    "_id": "57c0be560b12fbe73f0c9731",
+    "sgv": 117,
+    "date": 1472248658000,
+    "dateString": "2016-08-26T21:57:38.000Z",
+    "trend": 4,
+    "direction": "Flat",
+    "device": "share2",
+    "type": "sgv",
+    "glucose": 117
+  },
+  {
     "_id": "57c0ba300b12fbe73f0c9728",
     "sgv": 111,
     "date": 1472248359000,
@@ -10514,16 +10525,5 @@
     "device": "share2",
     "type": "sgv",
     "glucose": 177
-  },
-  {
-    "_id": "57bb79300b12fbe73f0c913c",
-    "sgv": 179,
-    "date": 1471903966000,
-    "dateString": "2016-08-22T22:12:46.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 179
   }
 ]
