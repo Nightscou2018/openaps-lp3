@@ -1,13 +1,13 @@
 {
-  "bg": 93, 
+  "bg": 112, 
   "temp": "absolute", 
-  "snoozeBG": 119, 
+  "snoozeBG": 136, 
   "recieved": true, 
-  "rate": 1.35, 
-  "reason": "1.1U meal bolus remaining, 155-119 in range: no temp required; setting current basal of 1.33 as temp", 
-  "eventualBG": 155, 
-  "timestamp": "2016-08-26T14:08:26.554314", 
+  "rate": 2.6, 
+  "reason": "1.1U meal bolus remaining, Eventual BG 172>=125, temp 1.35<2.604U/hr", 
+  "eventualBG": 172, 
+  "timestamp": "2016-08-26T14:13:24.485147", 
   "duration": 30, 
-  "mealAssist": "On: 100%, 100%, Carbs: 16 Boluses: 1.1 ISF: 52.6, Target: 103 Deviation: 37 BGI: -2.24", 
-  "tick": "+11"
+  "mealAssist": "On: 100%, 100%, Carbs: 16 Boluses: 1.1 ISF: 52.6, Target: 103 Deviation: 36 BGI: -2.16", 
+  "tick": "+19"
 }
