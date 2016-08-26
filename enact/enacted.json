@@ -1,0 +1,13 @@
+{
+  "bg": 128, 
+  "temp": "absolute", 
+  "snoozeBG": 167, 
+  "recieved": true, 
+  "rate": 3.275, 
+  "reason": "1U meal bolus remaining, Eventual BG 219>=125, adj. req. rate:3.9 to maxSafeBasal:3.3, temp 2.6<3.3U/hr", 
+  "eventualBG": 219, 
+  "timestamp": "2016-08-26T14:18:20.486153", 
+  "duration": 30, 
+  "mealAssist": "On: 100%, 100%, Carbs: 16 Boluses: 1.1 ISF: 51, Target: 103 Deviation: 52 BGI: -2.01", 
+  "tick": "+16"
+}
