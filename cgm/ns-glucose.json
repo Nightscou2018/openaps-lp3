@@ -10492,16 +10492,5 @@
     "device": "share2",
     "type": "sgv",
     "glucose": 209
-  },
-  {
-    "_id": "57bbe7580b12fbe73f0c91c6",
-    "sgv": 206,
-    "date": 1471932170000,
-    "dateString": "2016-08-23T06:02:50.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 206
   }
 ]
