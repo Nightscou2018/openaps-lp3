@@ -1,5 +1,16 @@
 [
   {
+    "_id": "57c1942f0b12fbe73f0c988f",
+    "sgv": 170,
+    "date": 1472304158000,
+    "dateString": "2016-08-27T13:22:38.000Z",
+    "trend": 4,
+    "direction": "Flat",
+    "device": "share2",
+    "type": "sgv",
+    "glucose": 170
+  },
+  {
     "_id": "57c193030b12fbe73f0c9888",
     "sgv": 175,
     "date": 1472303856000,
