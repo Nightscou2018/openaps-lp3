@@ -1,5 +1,71 @@
 [
   {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-08-26T16:49:44 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-08-26T16:49:44-07:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[5], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c052c1114", 
+        "data": [
+          {
+            "amount": 1.1, 
+            "age": 273
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 1.2, 
+    "duration": 0, 
+    "amount": 1.2, 
+    "unabsorbed": 0.0, 
+    "_head": "0100300030000000", 
+    "type": "normal", 
+    "_date": "ac31301a10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 134, 
+    "_description": "BolusWizard 2016-08-26T16:49:44 head[2], body[15] op[0x5b]", 
+    "timestamp": "2016-08-26T16:49:44-07:00", 
+    "_body": "0a50005a467d04002c00000000307d", 
+    "carb_input": 10, 
+    "bg_target_high": 125, 
+    "sensitivity": 70, 
+    "carb_ratio": 9.0, 
+    "food_estimate": 1.1, 
+    "unabsorbed_insulin_total": 0.0, 
+    "correction_estimate": 0.1, 
+    "bg_target_low": 125, 
+    "_head": "5b86", 
+    "bolus_estimate": 1.2, 
+    "_date": "ac31101a10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-08-26T16:49:32 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-08-26T16:49:32-07:00", 
+    "_body": "", 
+    "_head": "0a86", 
+    "amount": 134, 
+    "_date": "a031301a10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-08-26T16:39:54 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-08-26T16:39:54-07:00", 
+    "_body": "102600", 
+    "profile_index": 2, 
+    "_head": "7b02", 
+    "rate": 0.95, 
+    "offset": 28800000, 
+    "_date": "b627301a10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-08-26T16:09:54 head[2], body[0] op[0x16]", 
     "timestamp": "2016-08-26T16:09:54-07:00", 
