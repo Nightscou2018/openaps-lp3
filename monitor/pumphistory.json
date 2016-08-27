@@ -1,5 +1,33 @@
 [
   {
+    "_type": "LowReservoir", 
+    "_description": "LowReservoir 2016-08-27T11:22:45 head[2], body[0] op[0x34]", 
+    "timestamp": "2016-08-27T11:22:45", 
+    "_body": "", 
+    "_head": "34fa", 
+    "amount": 25.0, 
+    "_date": "ad160b1b10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-08-27T11:21:49 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-27T11:21:49", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "b1150b5b10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-27T11:21:49 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-27T11:21:49", 
+    "_body": "00", 
+    "_head": "3320", 
+    "rate": 0.8, 
+    "_date": "b1150b5b10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-08-27T11:15:51 head[2], body[0] op[0x16]", 
@@ -419,24 +447,5 @@
     "_head": "3316", 
     "rate": 0.55, 
     "_date": "8026065b10"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-08-27T06:19:53 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-08-27T06:19:53", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "b513065b10"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-08-27T06:19:53 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-08-27T06:19:53", 
-    "_body": "00", 
-    "_head": "3316", 
-    "rate": 0.55, 
-    "_date": "b513065b10"
   }
 ]
