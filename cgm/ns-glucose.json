@@ -10426,27 +10426,5 @@
     "device": "share2",
     "type": "sgv",
     "glucose": 144
-  },
-  {
-    "_id": "57bc01200b12fbe73f0c91ea",
-    "sgv": 189,
-    "date": 1471938766000,
-    "dateString": "2016-08-23T07:52:46.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 189
-  },
-  {
-    "_id": "57bbfff40b12fbe73f0c91e9",
-    "sgv": 191,
-    "date": 1471938465000,
-    "dateString": "2016-08-23T07:47:45.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 191
   }
 ]
