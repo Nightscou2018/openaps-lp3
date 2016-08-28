@@ -1,5 +1,74 @@
 [
   {
+    "programmed": 0.325, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-08-28T04:14:26 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-08-28T04:14:26", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]", 
+        "data": [
+          {
+            "amount": 1.05, 
+            "age": 38
+          }, 
+          {
+            "amount": 0.9, 
+            "age": 448
+          }
+        ], 
+        "_body": "", 
+        "_head": "5c082a260424c014", 
+        "_date": ""
+      }
+    ], 
+    "_head": "01000d000d002700", 
+    "amount": 0.325, 
+    "unabsorbed": 0.975, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "9a0e241c10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 185, 
+    "bg_target_high": 125, 
+    "_description": "BolusWizard 2016-08-28T04:14:26 head[2], body[15] op[0x5b]", 
+    "timestamp": "2016-08-28T04:14:26", 
+    "_body": "0350005a467d22000d000027000d7d", 
+    "_head": "5bb9", 
+    "unabsorbed_insulin_total": 0.975, 
+    "correction_estimate": 0.85, 
+    "_date": "9a0e041c10", 
+    "bolus_estimate": 0.325, 
+    "bg_target_low": 125, 
+    "carb_ratio": 9.0, 
+    "food_estimate": 0.325, 
+    "carb_input": 3, 
+    "sensitivity": 70
+  }, 
+  {
+    "_type": "BGReceived", 
+    "link": "cba570", 
+    "_description": "BGReceived 2016-08-28T04:13:08 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-08-28T04:13:08", 
+    "_body": "cba570", 
+    "_head": "3f17", 
+    "amount": 185, 
+    "_date": "880d247c10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-08-28T04:13:08 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-08-28T04:13:08", 
+    "_body": "", 
+    "_head": "0ab9", 
+    "amount": 185, 
+    "_date": "880d247c10"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-08-28T03:50:57 head[2], body[0] op[0x16]", 
