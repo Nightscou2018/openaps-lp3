@@ -1,6 +1,63 @@
 [
   {
     "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-08-28T17:38:40 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-28T17:38:40-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "a826115c10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-28T17:38:40 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-28T17:38:40-07:00", 
+    "_body": "00", 
+    "_head": "331e", 
+    "rate": 0.75, 
+    "_date": "a826115c10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-08-28T17:35:46 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-08-28T17:35:46-07:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "ae23115c10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-08-28T17:35:46 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-08-28T17:35:46-07:00", 
+    "_body": "00", 
+    "_head": "3339", 
+    "rate": 1.425, 
+    "_date": "ae23115c10"
+  }, 
+  {
+    "_type": "BGReceived", 
+    "_description": "BGReceived 2016-08-28T17:24:44 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-08-28T17:24:44-07:00", 
+    "_body": "cba570", 
+    "_head": "3f11", 
+    "amount": 140, 
+    "link": "cba570", 
+    "_date": "ac18917c10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-08-28T17:24:44 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-08-28T17:24:44-07:00", 
+    "_body": "", 
+    "_head": "0a8c", 
+    "amount": 140, 
+    "_date": "ac18317c10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
     "_description": "TempBasalDuration 2016-08-28T17:21:37 head[2], body[0] op[0x16]", 
     "timestamp": "2016-08-28T17:21:37-07:00", 
     "_body": "", 
