@@ -1,5 +1,30 @@
 [
   {
+    "_type": "LowReservoir", 
+    "_description": "LowReservoir 2016-09-02T09:01:16 head[2], body[0] op[0x34]", 
+    "timestamp": "2016-09-02T09:01:16", 
+    "_body": "", 
+    "_head": "3472", 
+    "amount": 11.4, 
+    "_date": "9041090210"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-09-02T09:01:15 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-09-02T09:01:15", 
+    "_body": "", 
+    "_head": "1a01", 
+    "_date": "8f41090210"
+  }, 
+  {
+    "_type": "Battery", 
+    "_description": "Battery 2016-09-02T09:00:43 head[2], body[0] op[0x1a]", 
+    "timestamp": "2016-09-02T09:00:43", 
+    "_body": "", 
+    "_head": "1a00", 
+    "_date": "ab40090210"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-09-02T08:56:05 head[2], body[0] op[0x16]", 
