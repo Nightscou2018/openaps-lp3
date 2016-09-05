@@ -1,5 +1,24 @@
 [
   {
+    "_type": "BGReceived", 
+    "link": "cba570", 
+    "_description": "BGReceived 2016-09-05T14:09:31 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-09-05T14:09:31", 
+    "_body": "cba570", 
+    "_head": "3f0b", 
+    "amount": 90, 
+    "_date": "9f494e6510"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-09-05T14:09:31 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-09-05T14:09:31", 
+    "_body": "", 
+    "_head": "0a5a", 
+    "amount": 90, 
+    "_date": "9f492e6510"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-09-05T14:00:05 head[2], body[0] op[0x16]", 
@@ -2190,16 +2209,5 @@
     "_head": "331b", 
     "rate": 0.675, 
     "_date": "85580b4410"
-  }, 
-  {
-    "_type": "BasalProfileStart", 
-    "offset": 28800000, 
-    "_description": "BasalProfileStart 2016-09-04T11:07:07 head[2], body[3] op[0x7b]", 
-    "timestamp": "2016-09-04T11:07:07", 
-    "_body": "101e00", 
-    "profile_index": 2, 
-    "_head": "7b02", 
-    "rate": 0.75, 
-    "_date": "87470b0410"
   }
 ]
