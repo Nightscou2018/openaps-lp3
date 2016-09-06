@@ -10613,16 +10613,5 @@
     "device": "share2",
     "type": "sgv",
     "glucose": 90
-  },
-  {
-    "_id": "57c98a6c0b12fbe73f0ca5fe",
-    "sgv": 89,
-    "date": 1472825846000,
-    "dateString": "2016-09-02T14:17:26.000Z",
-    "trend": 4,
-    "direction": "Flat",
-    "device": "share2",
-    "type": "sgv",
-    "glucose": 89
   }
 ]
