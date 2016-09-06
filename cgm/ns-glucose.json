@@ -1,5 +1,16 @@
 [
   {
+    "_id": "57cee52e0b12fbe73f0caf01",
+    "sgv": 121,
+    "date": 1473176833000,
+    "dateString": "2016-09-06T15:47:13.000Z",
+    "trend": 3,
+    "direction": "FortyFiveUp",
+    "device": "share2",
+    "type": "sgv",
+    "glucose": 121
+  },
+  {
     "_id": "57cee4020b12fbe73f0caf00",
     "sgv": 113,
     "date": 1473176533000,
