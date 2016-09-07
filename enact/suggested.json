@@ -1,1 +1,1 @@
-{"reason":"BG data is too old, or clock set incorrectly.  Your CGM time is Tue Sep 06 2016 18:27:12 GMT-0700 (PDT) but your system time is Tue Sep 06 2016 18:47:31 GMT-0700 (PDT)"}
+{"temp":"absolute","bg":119,"tick":"+1","eventualBG":142,"snoozeBG":142,"predBGs":{"IOB":[119,120,121,121,122,123,124,125,126,126,127,128,129,130,132,133,135,136,137,138,139,140,141,142,143,144,145,146,146,147,148,148,149,149,149,149,149,149,150]},"COB":0,"IOB":-0.303,"reason":"COB: 0, Dev: -1, BGI: 0.96, ISF: 83, Target: 123; Eventual BG 142 >= 123, temp 0.675<1.15U/hr","duration":30,"rate":1.15}
